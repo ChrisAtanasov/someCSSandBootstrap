@@ -1,0 +1,17 @@
+
+header{
+    background: url("http://learntocodewith.me/wp-content/uploads/2014/12/can-you-be-a-front-end-dev.png?3c42f8");
+    background-size:cover;
+    position:relative;
+    z-index: 0;
+    height: 720px;
+    color: #ffffff;
+}
+.overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.1;
+    z-index: -1;
+    background-color: #3c3f49;
+}
